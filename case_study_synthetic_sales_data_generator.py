@@ -1256,7 +1256,7 @@ def main():
     """
     # Configuration - modify these values as needed
     OUTPUT_PATH = "/Users/keithgliksman/Desktop/Anthropic Case"  # Where to save the file
-    FILENAME = "close_to_over.csv"                               # Name of the output file
+    FILENAME = "sales_data.csv"                               # Name of the output file
     NUM_DEALS = 50000                                          # Number of opportunities to generate
     
     print("Generating global AI company sales data with dual narratives...")
